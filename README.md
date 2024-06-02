@@ -2,7 +2,8 @@
 Project Title : E-commerce Website Design.
 
 Project Description : 
-=> First of all we have to know what is E-commerce website design? 
+=> First of all we have to know what is E-commerce website design?
+
 E-Commerce websites allow retailers to sell products online, and enable consumers to browse, evaluate, and purchase products from the comfort of their home.
 Web design is crucial when creating a successful E-commerce website. E-commerce web design aims to encourage visitors to make purchases using the correct colors, fonts, images, text, and graphics.
 An E-commerce website should be user-friendly, making it easy for users to navigate and find the products they are after. It should establish trust and create a strong brand identity. 
